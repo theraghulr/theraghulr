@@ -7,8 +7,8 @@
 
 - 🌱 Learning **Fast API, Data Structures and Algorithms and AI agents**
 - 💬 Ask me about **Java, Spring, React.js**
-- 📫 Reach me at **rajnishofficial02@gmail.com**
-- 📄 [Check out my resume](https://drive.google.com/drive/folders/179BQS8O7Xxnj9NoXqYwD0I_DFDonR-Th)
+- 📫 Reach me at **raghulofficial13@gmail.com**
+- 📄 [Check out my resume]()
 - ⚡ **Fun Fact:** Did you know the first computer "bug" was a literal bug? 🐛💻 In 1947, engineers found a moth stuck in a relay of the Harvard Mark II computer!
 
 ---
@@ -18,7 +18,6 @@
 ### **Programming Languages:**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -50,44 +49,39 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajnish-j&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theraghulr&show_icons=true&theme=radical" width="48%"/>
 </div>
 
 ---
 
 ## 🏆 Coding Platforms
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rajnish_j_india)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rajnish10)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajnish-j-a749bb248)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rajnish_07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 ---
 
 ## 🔥 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnish-j&theme=react"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theraghulr&theme=react"/>
 </p>
 
 ---
 
-## 🚀 Profile Visitors
-
-![Profile views](https://komarev.com/ghpvc/?username=rajnish-j&color=blue)
-
----
 
 🚀 _Happy Coding!_
