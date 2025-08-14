@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 🌱 Learning **Fast API, Data Structures and Algorithms and AI agents**
-- 💬 Ask me about **Java, Spring, React.js**
+- 💬 Ask me about **Java, SpringBoot, React.js**
 - 📫 Reach me at **raghulofficial13@gmail.com**
 - 📄 [Check out my resume]()
 - ⚡ **Fun Fact:** Did you know the first computer "bug" was a literal bug? 🐛💻 In 1947, engineers found a moth stuck in a relay of the Harvard Mark II computer!
