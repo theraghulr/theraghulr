@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Learning **Fast API, Data Structures and Algorithms and AI agents**
+- 🌱 Learning **Fast API, Data Structures and Algorithms**
 - 💬 Ask me about **Java, SpringBoot, React.js**
 - 📫 Reach me at **raghulofficial13@gmail.com**
 - 📄 [Check out my resume]()
